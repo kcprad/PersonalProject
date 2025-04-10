@@ -47,7 +47,7 @@
         <mxCell id="21" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="670" y="160" width="10" height="189.39" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="PCS neo AC &#xa;Certificate Agent" style="shadow=1;" parent="1" vertex="1">
+        <mxCell id="22" value="PCS neo AC &#xa;Certificate Agent" style="shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="619.86" y="50" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="23" value="" style="edgeStyle=none;endArrow=none;dashed=1;strokeColor=light-dark(#434242, #ffc8c8);entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="21" edge="1">
@@ -146,7 +146,7 @@
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-109" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
