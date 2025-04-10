@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1603" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,11 @@
             <mxPoint x="-2" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-121" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="105" height="50" as="geometry" />
         </mxCell>
@@ -187,6 +192,16 @@
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
             <mxPoint x="760" y="609" as="sourcePoint" />
             <mxPoint x="900" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-119" value="&lt;span style=&quot;white-space: pre-wrap; background-color: rgb(240, 240, 240);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px;&quot;&gt;RA Configuration &lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre-wrap; background-color: rgb(240, 240, 240);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;amp; History Repository&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="165" y="500" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-120" value="Request log&#xa;Issued certificate" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;exitX=0.339;exitY=0.192;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tpsU3pb73Hbp_vr3Kudf-109" target="tpsU3pb73Hbp_vr3Kudf-119">
+          <mxGeometry x="550" y="261.7361111111111" width="100" height="100" as="geometry">
+            <mxPoint x="587.5" y="544.44" as="sourcePoint" />
+            <mxPoint x="270" y="544.4404012345678" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
