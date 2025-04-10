@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1110" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2003" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="20" value="" style="fillColor=#CCD5EB" parent="1" vertex="1">
-          <mxGeometry x="20" y="-70" width="1100" height="850" as="geometry" />
+          <mxGeometry x="-40" y="-70" width="1190" height="850" as="geometry" />
         </mxCell>
         <mxCell id="2" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Certificate&#xa;request" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;labelPosition=left;align=center;spacing=1;fontSize=9;dashed=1;" parent="1" edge="1">
+        <mxCell id="3" value="Certificate&#xa;request" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;labelPosition=left;align=center;spacing=1;fontSize=9;dashed=1;exitX=0.978;exitY=0.086;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.144;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="2" source="tpsU3pb73Hbp_vr3Kudf-130">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="110" y="149.5" as="sourcePoint" />
             <mxPoint x="200" y="149.5" as="targetPoint" />
@@ -21,7 +21,7 @@
           <mxGeometry x="152.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
-          <mxGeometry x="342.5" y="180" width="10" height="170" as="geometry" />
+          <mxGeometry x="342.5" y="180" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="7" value="AC RA Repository&#xa;service" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="295" y="60" width="105" height="50" as="geometry" />
@@ -102,9 +102,6 @@
             <mxPoint x="139.99999999999994" y="759.9884259259259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-93" value="CMP Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="140" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-94" value="CMP Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="120" width="60" height="40" as="geometry" />
         </mxCell>
@@ -133,20 +130,20 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Update RA repository with device&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/font&gt;&lt;/div&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;direction=south;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-105" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;dashed=1;exitX=0.824;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-105" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;dashed=1;exitX=0.824;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="220" y="172.25887345679013" width="100" height="100" as="geometry">
-            <mxPoint x="212.5" y="429.99887345679014" as="sourcePoint" />
-            <mxPoint x="350" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-106" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;response&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-105">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2" y="1" as="offset" />
+            <mxPoint x="208.23999999999978" y="407.70000000000005" as="sourcePoint" />
+            <mxPoint x="350" y="409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-121" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-105">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-126" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;response&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
@@ -215,6 +212,34 @@
             <mxPoint x="910" y="665" as="sourcePoint" />
             <mxPoint x="1027.5" y="665" as="targetPoint" />
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-127" value="" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;endArrow=none;startArrow=classic;dashed=1;exitX=0.978;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tpsU3pb73Hbp_vr3Kudf-130" target="2">
+          <mxGeometry x="220" y="172.25887345679013" width="100" height="100" as="geometry">
+            <mxPoint x="68" y="264.5" as="sourcePoint" />
+            <mxPoint x="210" y="265.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-128" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-129" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;response&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpsU3pb73Hbp_vr3Kudf-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-130" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
+          <mxGeometry x="55" y="137" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-131" value="CMP Client" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry y="70" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-132" value="" style="elbow=horizontal;endArrow=none;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="230.00000000000003" y="310" width="100" height="100" as="geometry">
+            <mxPoint x="59" y="120" as="sourcePoint" />
+            <mxPoint x="59" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
