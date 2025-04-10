@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="20" value="" style="fillColor=#CCD5EB" parent="1" vertex="1">
-          <mxGeometry x="20" y="-70" width="1040" height="850" as="geometry" />
+          <mxGeometry x="20" y="-70" width="1100" height="850" as="geometry" />
         </mxCell>
         <mxCell id="2" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="10" height="300" as="geometry" />
@@ -190,8 +190,8 @@
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-118" value="Publish&#xa;Certificate issued &#xa;state" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
-            <mxPoint x="760" y="609" as="sourcePoint" />
-            <mxPoint x="900" y="609" as="targetPoint" />
+            <mxPoint x="760" y="637" as="sourcePoint" />
+            <mxPoint x="900" y="637" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-119" value="&lt;span style=&quot;white-space: pre-wrap; background-color: rgb(240, 240, 240);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px;&quot;&gt;RA Configuration &lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre-wrap; background-color: rgb(240, 240, 240);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;amp; History Repository&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
@@ -202,6 +202,19 @@
             <mxPoint x="587.5" y="544.44" as="sourcePoint" />
             <mxPoint x="270" y="544.4404012345678" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-122" value="PCS neo AC &#xa;User Interface" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="980" y="500" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-123" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
+          <mxGeometry x="1027.5" y="550" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-124" value="Update Device&#xa;Certificate &#xa;Overview&#xa;" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" as="geometry">
+            <mxPoint x="910" y="665" as="sourcePoint" />
+            <mxPoint x="1027.5" y="665" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
