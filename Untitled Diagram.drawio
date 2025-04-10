@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24" value="PCS neo CA/&#xa;MS CA" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="750" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="870" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="24" target="26" edge="1">
           <mxGeometry x="727.3350694444446" y="165" width="100" height="100" as="geometry">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="26" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="210" width="10" height="119.39" as="geometry" />
+          <mxGeometry x="915" y="200" width="10" height="119.39" as="geometry" />
         </mxCell>
         <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4" target="2" edge="1">
           <mxGeometry x="230.00000000000003" y="310" width="100" height="100" as="geometry">
@@ -74,7 +74,7 @@
             <mxPoint x="330" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34" value="Certificate &#xa;Response" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom" parent="1" edge="1">
+        <mxCell id="34" value="Certificate &#xa;Response" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom" parent="1" edge="1" source="26">
           <mxGeometry x="550" y="261.7361111111111" width="100" height="100" as="geometry">
             <mxPoint x="797.4999999999999" y="291.1304012345679" as="sourcePoint" />
             <mxPoint x="680" y="291.1304012345679" as="targetPoint" />
@@ -105,7 +105,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-94" value="CMP Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="120" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-95" value="Certificate&#xa;request" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;" edge="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-95" value="Certificate&#xa;request" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="26">
           <mxGeometry x="385.45524691358025" y="113.91550925925924" width="100" height="100" as="geometry">
             <mxPoint x="680" y="230" as="sourcePoint" />
             <mxPoint x="800" y="230" as="targetPoint" />
