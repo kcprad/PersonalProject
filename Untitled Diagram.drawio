@@ -112,9 +112,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-97" value="RA &#xa;Repositories" style="shadow=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="460" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Update RA repository with device&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/font&gt;&lt;/div&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;direction=south;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="380" width="80" height="80" as="geometry" />
         </mxCell>
@@ -258,6 +255,9 @@
             <mxPoint x="514" y="560" as="sourcePoint" />
             <mxPoint x="514" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-97" value="RA &#xa;Repositories" style="shadow=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="460" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
