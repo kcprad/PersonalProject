@@ -17,13 +17,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4" value="CMP http proxy" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="4" value="CMP http proxy" style="shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="152.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="180" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="AC RA Repository&#xa;service" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="7" value="AC RA Repository&#xa;service" style="shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="295" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7" target="tpsU3pb73Hbp_vr3Kudf-109" edge="1">
@@ -47,7 +47,7 @@
         <mxCell id="21" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="670" y="160" width="10" height="189.39" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="PCS neo AC &#xa;Certificate Agent" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="22" value="PCS neo AC &#xa;Certificate Agent" style="shadow=1;" parent="1" vertex="1">
           <mxGeometry x="619.86" y="50" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="23" value="" style="edgeStyle=none;endArrow=none;dashed=1;strokeColor=light-dark(#434242, #ffc8c8);entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="21" edge="1">
@@ -56,8 +56,8 @@
             <mxPoint x="675.9494770800758" y="269.3942901234568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" value="PCS neo CA/&#xa;MS CA" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="870" y="80" width="100" height="30" as="geometry" />
+        <mxCell id="24" value="PCS neo CA/&#xa;MS CA" style="shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="25" value="" style="edgeStyle=none;endArrow=none;dashed=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="24" target="26" edge="1">
           <mxGeometry x="727.3350694444446" y="165" width="100" height="100" as="geometry">
@@ -102,7 +102,7 @@
             <mxPoint x="139.99999999999994" y="759.9884259259259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-94" value="CMP Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-94" value="CMP Server" style="shadow=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-95" value="Certificate&#xa;request" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="26">
@@ -124,7 +124,7 @@
             <mxPoint x="347.5" y="464.16666666666674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-97" value="RA &#xa;Repositories" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-97" value="RA &#xa;Repositories" style="shadow=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="460" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Update RA repository with device&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Certificate&lt;/font&gt;&lt;/div&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;direction=south;" vertex="1" parent="1">
@@ -146,7 +146,7 @@
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-108" value="PCS neo AC &#xa;registration &#xa;Authority" style="shadow=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-109" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -161,13 +161,13 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-111" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="561" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-112" value="Publish&#xa;Certificate issued &#xa;state ?" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#c31d1d, #ededed);" edge="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-112" value="Publish&#xa;Certificate issued &#xa;state ?" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#c31d1d, #ededed);fontStyle=1" edge="1" parent="1">
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
             <mxPoint x="352.5" y="585" as="sourcePoint" />
             <mxPoint x="604.3500000000004" y="589.1699999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-113" value="PCS neo AC &#xa;Communication &#xa;server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-113" value="PCS neo AC &#xa;Communication &#xa;server" style="shadow=1;" vertex="1" parent="1">
           <mxGeometry x="702.5" y="500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-114" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -179,7 +179,7 @@
             <mxPoint x="750" y="609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-116" value="PCS neo AC &#xa;Web server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-116" value="PCS neo AC &#xa;Web server" style="shadow=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-117" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-122" value="PCS neo AC &#xa;User Interface" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-122" value="PCS neo AC &#xa;User Interface" style="shadow=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="500" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-123" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -233,7 +233,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-130" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fillStyle=auto;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="55" y="137" width="10" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-131" value="CMP Client" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-131" value="CMP Client" style="shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="70" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-132" value="" style="elbow=horizontal;endArrow=none;dashed=1;rounded=0;" edge="1" parent="1">
