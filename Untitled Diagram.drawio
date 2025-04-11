@@ -99,7 +99,7 @@
             <mxPoint x="800" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-96" value="Certificate &#xa;Response" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom" parent="1" source="21" edge="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-96" value="Certificate &#xa;Response" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;dashed=1;" parent="1" source="21" edge="1">
           <mxGeometry x="550" y="261.7361111111111" width="100" height="100" as="geometry">
             <mxPoint x="469.9999999999999" y="330.0004012345679" as="sourcePoint" />
             <mxPoint x="352.5" y="330.0004012345679" as="targetPoint" />
@@ -134,7 +134,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-111" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="597.5" y="561" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-112" value="Publish&#xa;Certificate issued &#xa;state ?" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#c31d1d, #ededed);fontStyle=1" parent="1" edge="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-112" value="Publish&#xa;Certificate issued &#xa;state ?" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#c31d1d, #ededed);fontStyle=1;dashed=1;" parent="1" edge="1">
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
             <mxPoint x="352.5" y="585" as="sourcePoint" />
             <mxPoint x="604.3500000000004" y="589.1699999999998" as="targetPoint" />
@@ -146,7 +146,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-114" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="567" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-115" value="Publish&#xa;Certificate issued &#xa;state" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-115" value="Publish&#xa;Certificate issued &#xa;state" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
             <mxPoint x="610" y="609" as="sourcePoint" />
             <mxPoint x="750" y="609" as="targetPoint" />
@@ -158,7 +158,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-117" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="900" y="574" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-118" value="Publish&#xa;Certificate issued &#xa;state" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-118" value="Publish&#xa;Certificate issued &#xa;state" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry x="220" y="92" width="100" height="100" as="geometry">
             <mxPoint x="760" y="637" as="sourcePoint" />
             <mxPoint x="900" y="637" as="targetPoint" />
@@ -176,7 +176,7 @@
         <mxCell id="tpsU3pb73Hbp_vr3Kudf-123" value="" style="fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1027.5" y="586" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="tpsU3pb73Hbp_vr3Kudf-124" value="Update Device&#xa;Certificate &#xa;Overview&#xa;" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="tpsU3pb73Hbp_vr3Kudf-124" value="Update Device&#xa;Certificate &#xa;Overview&#xa;" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;fontSize=10;entryX=0.685;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="910" y="665" as="sourcePoint" />
             <mxPoint x="1027.5" y="665" as="targetPoint" />
