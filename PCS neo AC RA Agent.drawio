@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-71" value="&lt;b&gt;PublishCommand&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;newDeviceCertificate&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="570" height="60" as="geometry" />
+          <mxGeometry x="30" y="170" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-72" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TgcMQ4FQ4k8ikJFSrqYq-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -277,6 +277,33 @@
               <mxPoint x="750" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.463;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TgcMQ4FQ4k8ikJFSrqYq-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="480" as="sourcePoint" />
+            <mxPoint x="830" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="480" />
+              <mxPoint x="870" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-75" value="&lt;b&gt;Command/CommandResponse&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;deviceCertificates&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="570" as="sourcePoint" />
+            <mxPoint x="970" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="570" />
+              <mxPoint x="1000" y="510" />
+              <mxPoint x="870" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-77" value="&lt;b&gt;Command/CommandResponse&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;devices&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="80" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
