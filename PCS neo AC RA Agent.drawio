@@ -336,6 +336,9 @@
             <mxPoint x="1160" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-93" value="PCS neo AC Registration Authority - Roles and Responsibility&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="720" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
