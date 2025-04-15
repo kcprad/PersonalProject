@@ -96,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-30" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-23">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-30" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Activated&amp;nbsp;and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-23">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-33" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-31">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-33" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Activated and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-31">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -128,7 +128,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-36" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-34">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-36" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Activated&amp;nbsp;and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-34">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -139,7 +139,7 @@
             <mxPoint x="750" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt; Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt; Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
             <mxPoint x="429" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             <mxPoint x="868" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
