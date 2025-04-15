@@ -199,7 +199,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-71" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 255);&quot;&gt;PublishCommand&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;newDeviceCertificate&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-71" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 255);&quot;&gt;PublishCommand&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;newDeviceCertificateIssued&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-72" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="TgcMQ4FQ4k8ikJFSrqYq-71">
