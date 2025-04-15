@@ -144,7 +144,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=5;" edge="1" parent="1" source="3a17f1ce550125da-8" target="3a17f1ce550125da-2">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=5;fillColor=default;" edge="1" parent="1" source="3a17f1ce550125da-8" target="3a17f1ce550125da-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="660" as="sourcePoint" />
             <mxPoint x="429" y="651" as="targetPoint" />
