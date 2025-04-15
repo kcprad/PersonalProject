@@ -25,7 +25,7 @@
             <mxPoint x="500" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-9" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Publish&amp;nbsp;&lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-8">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-9" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Publish&amp;nbsp;&lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-8">
           <mxGeometry x="0.0971" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -36,7 +36,7 @@
             <mxPoint x="564" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-13" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Publish &lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-12">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-13" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Publish &lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-12">
           <mxGeometry x="0.0971" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
             <mxPoint x="564" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-15" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Publish&amp;nbsp;&lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-14">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-15" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Publish&amp;nbsp;&lt;/font&gt;&lt;/b&gt;New Certificate&lt;div&gt;Issued information&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-14">
           <mxGeometry x="0.0971" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -58,7 +58,7 @@
             <mxPoint x="1250" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-17" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-16">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-17" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-16">
           <mxGeometry x="-0.0395" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
             <mxPoint x="767" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-20" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-19">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-20" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-19">
           <mxGeometry x="-0.0395" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -80,7 +80,7 @@
             <mxPoint x="494" y="477.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-22" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-21">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-22" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Device Certificates&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-21">
           <mxGeometry x="-0.0395" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -96,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-30" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-23">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-30" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-23">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-33" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-31">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-33" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-31">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -128,7 +128,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-36" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-34">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-36" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Get List of&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Devices&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Trusted and Deactivated)&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-34">
           <mxGeometry x="-0.0958" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -139,7 +139,7 @@
             <mxPoint x="750" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt; Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt; Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
             <mxPoint x="429" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             <mxPoint x="868" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -172,7 +172,7 @@
             <mxPoint x="429" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-44" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-43">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-44" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-43">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
             <mxPoint x="430" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-48" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-47">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-48" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-47">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -194,7 +194,7 @@
             <mxPoint x="873" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-50" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-49">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-50" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Edit &lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-49">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -205,7 +205,7 @@
             <mxPoint x="430" y="741" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-57" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-56">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-57" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-56">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -216,7 +216,7 @@
             <mxPoint x="430" y="799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-60" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-59">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-60" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-59">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -227,7 +227,7 @@
             <mxPoint x="430" y="799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-63" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-62">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-63" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-62">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -238,7 +238,7 @@
             <mxPoint x="870" y="786" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-65" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-64">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-65" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Activate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-64">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -249,7 +249,7 @@
             <mxPoint x="429" y="856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-67" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-66">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-67" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-66">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -260,7 +260,7 @@
             <mxPoint x="1280" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-69" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-68">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-69" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Deactivate &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Device&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-68">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
