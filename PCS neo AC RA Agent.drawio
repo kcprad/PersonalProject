@@ -139,7 +139,7 @@
             <mxPoint x="750" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt; Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-38" value="&lt;b&gt;Add New&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate/&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Device parameters&lt;/span&gt;)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-37">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
             <mxPoint x="429" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-40" value="&lt;b&gt;Add New&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate/&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Device parameters&lt;/span&gt;)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-39">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -172,7 +172,7 @@
             <mxPoint x="429" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-44" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Update&amp;nbsp;&lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-43">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-44" value="&lt;b&gt;Update&amp;nbsp;&lt;/b&gt;Device&lt;div&gt;&lt;div&gt;(Activate/Deactivate/&lt;/div&gt;&lt;div&gt;Device parameters)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-43">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
             <mxPoint x="430" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-48" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Update&amp;nbsp;&lt;/font&gt;&lt;/b&gt;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-47">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-48" value="&lt;b&gt;Update&amp;nbsp;&lt;/b&gt;Device&lt;div&gt;&lt;div&gt;(Activate/Deactivate/&lt;/div&gt;&lt;div&gt;Device parameters)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-47">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
