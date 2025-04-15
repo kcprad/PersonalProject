@@ -161,7 +161,7 @@
             <mxPoint x="868" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="Add New Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activated/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
