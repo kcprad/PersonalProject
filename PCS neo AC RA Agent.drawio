@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-71" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 255);&quot;&gt;PublishCommand&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;newDeviceCertificate&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="170" width="570" height="60" as="geometry" />
+          <mxGeometry x="120" y="240" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-72" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="TgcMQ4FQ4k8ikJFSrqYq-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -278,7 +278,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.463;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.013;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3a17f1ce550125da-2">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.462;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.013;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3a17f1ce550125da-2" target="TgcMQ4FQ4k8ikJFSrqYq-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860.19" y="489.42999999999984" as="sourcePoint" />
             <mxPoint x="672.9099999999999" y="83" as="targetPoint" />
@@ -289,24 +289,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-75" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;deviceCertificates&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="20" width="570" height="60" as="geometry" />
+          <mxGeometry x="440" y="130" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-77" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;devices&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="210" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-79" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.575;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="TgcMQ4FQ4k8ikJFSrqYq-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="580" as="sourcePoint" />
-            <mxPoint x="910" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="910" y="580" />
-              <mxPoint x="860" y="530" />
-              <mxPoint x="980" y="420" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="870" y="240" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-81" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;addDevice&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="130" width="240" height="60" as="geometry" />
+          <mxGeometry x="1010" y="130" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.007;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="3a17f1ce550125da-2" target="TgcMQ4FQ4k8ikJFSrqYq-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -340,6 +329,12 @@
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-91" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;deactivateDevice&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1034" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.013;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="3a17f1ce550125da-2" target="TgcMQ4FQ4k8ikJFSrqYq-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="871" y="646" as="sourcePoint" />
+            <mxPoint x="1160" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
