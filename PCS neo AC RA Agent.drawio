@@ -161,7 +161,7 @@
             <mxPoint x="868" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
+        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-42" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;Add New&lt;/font&gt;&lt;/b&gt;&amp;nbsp;Device&lt;div&gt;(Activate/Deactivate/&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Device parameters&lt;/span&gt;)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="TgcMQ4FQ4k8ikJFSrqYq-41">
           <mxGeometry x="0.155" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
