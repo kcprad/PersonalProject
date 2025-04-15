@@ -244,25 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-87" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;updateDevice&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="980" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.02;exitY=0.787;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" target="TgcMQ4FQ4k8ikJFSrqYq-89" parent="1" source="3a17f1ce550125da-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="691.5" y="780" as="sourcePoint" />
-            <mxPoint x="918.5" y="1014" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-89" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;activateDevice&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="970" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" target="TgcMQ4FQ4k8ikJFSrqYq-91" parent="1" source="3a17f1ce550125da-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="514.5" y="790" as="sourcePoint" />
-            <mxPoint x="570" y="1024" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-91" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Command/CommandResponse&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Command Name =&amp;gt; &quot;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;deactivateDevice&lt;/font&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="980" width="240" height="60" as="geometry" />
+          <mxGeometry x="660" y="910" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgcMQ4FQ4k8ikJFSrqYq-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.013;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="3a17f1ce550125da-2" target="TgcMQ4FQ4k8ikJFSrqYq-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
